@@ -11,3 +11,10 @@ You can using this tools for checking :
 - More Coming Soon..
 
 
+How to Install :
+- `git clone `
+- `cd JubeChecker`
+- `pip install -r requirements.txt` or `./setup.sh`
+- run tools `python3 jube.py`
+
+Thankss by Information Security Team Jubelio
