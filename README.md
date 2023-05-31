@@ -12,7 +12,7 @@ You can using this tools for checking :
 
 
 How to Install :
-- `git clone `
+- `git clone https://github.com/hekerhumoris/JubeChecker.git`
 - `cd JubeChecker`
 - `pip install -r requirements.txt` or `./setup.sh`
 - run tools `python3 jube.py`
