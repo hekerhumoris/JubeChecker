@@ -1,0 +1,11 @@
+
+[i] Jubelio Compliance & Security Checker 
+
+usage: python3 jube.py -d DOMAIN [-A] [-S] [-C]
+
+options:
+  -h, --help                  	show this help message and exit
+  -d DOMAIN, --domain DOMAIN  	target domain
+  -A, --all                   	run all checker
+  -S, --security              	run security checker
+  -C, --compliance            	run compliance checker
